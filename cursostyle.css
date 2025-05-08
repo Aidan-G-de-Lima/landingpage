@@ -60,7 +60,7 @@ nav li{
     padding: 9em;
 }
 body{
-    background-image: linear-gradient(to bottom right, #3e5eb4 30%, #b31111 80%);
+    background-image: linear-gradient(to bottom right, #3e5eb4 30%, #b31111 50%, rgba(255, 255, 255, 0.959) 80%);
     background-repeat: no-repeat;
     height: 50em;
 }

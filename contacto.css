@@ -1,49 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-*{
-    font-family: 'Work Sans' ;
+
+* {
+    font-family: 'Work Sans';
     margin: 0;
     padding: 0;
 
 }
 
-nav ul{
+nav ul {
     list-style: none;
     background-color: blue;
     text-align: center;
     height: 40px;
     padding: 30px;
 }
-nav li{
+
+nav li {
     display: inline;
     margin: 10px;
-    
+
 }
 
-#cima li a{
+#cima li a {
     text-decoration: none;
     color: rgb(255, 255, 255);
-    
+
 }
 
-.formcontato{
+.formcontato {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 80vh;
 
 }
-body{
-    background-image: linear-gradient(to bottom right, #3e5eb4 30%, #b31111 80%);
+
+body {
+    background-image: linear-gradient(to bottom right, #3e5eb4 30%, #b31111 50%, rgba(255, 255, 255, 0.959) 80%);
     background-repeat: no-repeat;
     height: 56.91em;
 }
-footer{
-    background-color:rgb(170, 36, 36) ;
+
+footer {
+    background-color: rgb(170, 36, 36);
     text-align: center;
     padding: 15px;
     position: fixed;
     bottom: 0;
     width: 100%;
 
-    }
+}
